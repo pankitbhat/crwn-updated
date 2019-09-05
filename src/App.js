@@ -68,7 +68,7 @@ class App extends React.Component {
                 <SignInSignUpPage />
               )
             }
-          />
+          />sudo snap install --classic heroku
           <Route exact path="/checkout" component = {CheckoutPage} />
         </Switch>
       </div>
